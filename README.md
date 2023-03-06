@@ -9,26 +9,26 @@
 
 ## 😀 스터디원
 
-|  이름  |                    깃허브 ID                    | 출석현황 |
-| :----: | :---------------------------------------------: | :------: |
-| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  |   0/0    |
-| 박설화 |      [iberis2](https://github.com/iberis2)      |   0/0    |
-| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) |   0/0    |
-| 이혜나 | [hazellee0914](https://github.com/hazellee0914) |   0/0    |
-| 이호승 |      [leekoby](https://github.com/leekoby)      |   0/0    |
-| 이호인 |     [rickyshu](https://github.com/rickyshu)     |   0/0    |
-| 최기랑 |   [choigirang](https://github.com/choigirang)   |   0/0    |
-| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  |   0/0    |
-| 홍혜란 |    [forhrever](https://github.com/forhrever)    |   0/0    |
+|  이름  |                    깃허브 ID                    | 출석 |
+| :----: | :---------------------------------------------: | :--: |
+| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 0/0  |
+| 박설화 |      [iberis2](https://github.com/iberis2)      | 0/0  |
+| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 0/0  |
+| 이혜나 | [hazellee0914](https://github.com/hazellee0914) | 0/0  |
+| 이호승 |      [leekoby](https://github.com/leekoby)      | 0/0  |
+| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 0/0  |
+| 최기랑 |   [choigirang](https://github.com/choigirang)   | 0/0  |
+| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 0/0  |
+| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 0/0  |
 
 <br>
 
 ## 🗓 스터디 일정
 
-| 회차 |        날짜         |                               내용                                |     |
-| :--: | :-----------------: | :---------------------------------------------------------------: | :-: |
-|  OT  | 23-02-28 (화) 09:30 |                      스터디 진행 방식 정하기                      |     |
-|  OT  | 23-02-28 (화) 21:00 | 러닝타입스크립트 `Chapter 1 ~ 4` / <br> Weekly Exercise `1.1~1.4` |     |
+| 회차 |        날짜         |                               내용                                |
+| :--: | :-----------------: | :---------------------------------------------------------------: |
+|  OT  | 23-02-28 (화) 09:30 |                      스터디 진행 방식 정하기                      |
+|  OT  | 23-02-28 (화) 21:00 | 러닝타입스크립트 `Chapter 1 ~ 4` / <br> Weekly Exercise `1.1~1.4` |
 
 <br>
 
@@ -55,9 +55,10 @@
 > - 'Weekly Exercise' 같이 문제 풀이
 > - 스터디 종료 전 당일 스터디 진행 관련 피드백
 >
-> ### 4. 커밋 & 폴더명 컨벤션
+> ### 4. 커밋 & 파일명 컨벤션
 >
-> - 폴더명 : `{이름}_week_{해당주차}`
+> - 해당하는 주차의 폴더에 파일 작성
+> - 파일명 : `{이름}_week_{해당주차}`
 >   - ex) `허상범_week_01.md`, `홍헤란_week_10.ts`
 > - 커밋규칙 : `{이름}: {해당주차}주차 학습 제출`
 >   - ex) `허상범: 1주차 학습 제출`
