@@ -108,7 +108,7 @@
 
 <img width="200" src="https://user-images.githubusercontent.com/41741221/222957201-2b660414-be54-4f12-9561-1cdf26103850.png" alt="자바스크립트 완벽 가이드, David Flanagan">
 
-[자바스크립트 완벽 가이드, David Flanagan](https://user-images.githubusercontent.com/41741221/222957070-13a4f5c2-fb90-46fe-a8dc-e30a6d37359a.png)
+[러닝 타입스크립트, Josh Goldberg](http://www.yes24.com/Product/Goods/116585556)
 
 1. 자바스크립트에서 타입스크립트로
 2. 타입 시스템
