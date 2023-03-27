@@ -11,15 +11,15 @@
 
 |  이름  |                    깃허브 ID                    | 출석 |
 | :----: | :---------------------------------------------: | :--: |
-| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 2/2  |
-| 박설화 |      [iberis2](https://github.com/iberis2)      | 2/2  |
-| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 2/2  |
-| 이혜나 | [hazellee0914](https://github.com/hazellee0914) | 2/2  |
-| 이호승 |      [leekoby](https://github.com/leekoby)      | 2/2  |
-| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 2/2  |
-| 최기랑 |   [choigirang](https://github.com/choigirang)   | 2/2  |
-| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 2/2  |
-| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 2/2  |
+| 김정환 |  [wjdghksdigh](https://github.com/wjdghksdigh)  | 3/3  |
+| 박설화 |      [iberis2](https://github.com/iberis2)      | 3/3  |
+| 염도경 | [yeomdogyeong](https://github.com/yeomdogyeong) | 3/3  |
+| 이혜나 | [hazellee0914](https://github.com/hazellee0914) | 3/3  |
+| 이호승 |      [leekoby](https://github.com/leekoby)      | 3/3  |
+| 이호인 |     [rickyshu](https://github.com/rickyshu)     | 3/3  |
+| 최기랑 |   [choigirang](https://github.com/choigirang)   | 3/3  |
+| 허상범 |  [sangbeomheo](https://github.com/sangbeomheo)  | 3/3  |
+| 홍혜란 |    [forhrever](https://github.com/forhrever)    | 3/3  |
 
 <br>
 
@@ -31,6 +31,12 @@
 |  1   | 23-03-07 (화) 21:00 | 러닝타입스크립트 `Chapter 1 ~ 4` / <br> Weekly Exercise `1.4` |         허상범         |
 |  2   | 23-03-14 (화) 21:00 |               러닝타입스크립트 `Chapter 5 ~ 7`                | 박설화, 이호인, 홍혜란 |
 |  3   | 23-03-21 (화) 21:00 |                러닝타입스크립트 `Chapter 8, 9`                |     허상범, 최기랑     |
+|  4   | 23-03-28 (화) 21:00 |                 러닝타입스크립트 `Chapter 10`                 |     이호승, 김정환     |
+|  5   |                     |                                                               |                        |
+|  6   |                     |                                                               |                        |
+|  7   |                     |                                                               |                        |
+|  8   |                     |                                                               |                        |
+|  9   |                     |                                                               |                        |
 
 <br>
 
